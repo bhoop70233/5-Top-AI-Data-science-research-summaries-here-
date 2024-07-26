@@ -13,6 +13,6 @@ This list is regularly updated. Contributions via pull requests are welcome. All
 | 5      |Masked Graph Learning with Recurrent Alignment for Multimodal Emotion Recognition in Conversation                                                                              |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_emotion-recognition-in-conversation-activity-7222165173053091841-dHDU?utm_source=share&utm_medium=member_desktop)                                                 | Machine Learning |
 | 6      |BOND: Aligning LLMs with Best-of-N Distillation  |[✍️](https://www.linkedin.com/posts/ashishpatel2604_google-deepmind-introduces-bond-a-new-rlhf-activity-7222126652871307265-RNKt?utm_source=share&utm_medium=member_desktop) |  Machine Learning |
 | 7       |OpenDevin: An Open Platform for AI Software Developers as Generalist Agents |[✍️](https://www.linkedin.com/posts/analytics-vidhya_generative-ai-research-paper-activity-7222116498348158977-7vaV?utm_source=share&utm_medium=member_desktop)| AI |
-
+| 8      | Universal Approximation Theory: The basic theory for deep learning-based computer vision models| [✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_theoretical-foundations-of-deep-learning-activity-7222548214254616576-2jDa?utm_source=share&utm_medium=member_desktop)  | Computer Vision |
 
 More Research Paper list is coming soon...!!!
