@@ -17,6 +17,6 @@ This list is regularly updated. Contributions via pull requests are welcome. All
 |9        |AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents   |[✍️](https://www.linkedin.com/posts/analytics-vidhya_generative-ai-research-paper-activity-7222473006160265216-SbdK?utm_source=share&utm_medium=member_desktop)|AI|
 | 10      | Next-Generation Database Interfaces: A Survey of LLM-Based Text-to_SQL |[✍️](https://www.linkedin.com/posts/areganti_llms-sql-activity-7218804040221032448-w8IS?utm_source=share&utm_medium=member_desktop)| LLM  |
 | 11      |A fast learning algorithm for deep belief nets |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_representation-learning-activity-7222602452833878016-iN1R?utm_source=share&utm_medium=member_desktop)  | Representation Learning |
-|12       |CORT: Class-Oriented Real-time Tracking for Embedded Systems  |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_class-oriented-real-time-tracking-activity-7222946669695262720-Xh-T?utm_source=share&utm_medium=member_desktop)| Compurt vision|
+|12       |CORT: Class-Oriented Real-time Tracking for Embedded Systems  |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_class-oriented-real-time-tracking-activity-7222946669695262720-Xh-T?utm_source=share&utm_medium=member_desktop)| Computer vision|
 
 More Research Paper list is coming soon...!!!
