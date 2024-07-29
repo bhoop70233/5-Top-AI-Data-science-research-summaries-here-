@@ -18,5 +18,7 @@ This list is regularly updated. Contributions via pull requests are welcome. All
 | 10      | Next-Generation Database Interfaces: A Survey of LLM-Based Text-to_SQL |[✍️](https://www.linkedin.com/posts/areganti_llms-sql-activity-7218804040221032448-w8IS?utm_source=share&utm_medium=member_desktop)| LLM  |
 | 11      |A fast learning algorithm for deep belief nets |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_representation-learning-activity-7222602452833878016-iN1R?utm_source=share&utm_medium=member_desktop)  | Representation Learning |
 |12       |CORT: Class-Oriented Real-time Tracking for Embedded Systems  |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_class-oriented-real-time-tracking-activity-7222946669695262720-Xh-T?utm_source=share&utm_medium=member_desktop)| Computer vision|
+| 13      |Leveraging Foundation Models via Knowledge Distillation in Multi-Object
+Tracking: Distilling DINOv2 Features to FairMOT |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_multi-object-tracking-activity-7223597278840639489-x9MK?utm_source=share&utm_medium=member_desktop)| Computer vision|
 
 More Research Paper list is coming soon...!!!
