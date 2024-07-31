@@ -20,5 +20,5 @@ This list is regularly updated. Contributions via pull requests are welcome. All
 |12       |CORT: Class-Oriented Real-time Tracking for Embedded Systems  |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_class-oriented-real-time-tracking-activity-7222946669695262720-Xh-T?utm_source=share&utm_medium=member_desktop)| Computer vision|
 | 13      |Leveraging Foundation Models via Knowledge Distillation in Multi-Object Tracking: Distilling DINOv2 Features to FairMOT |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_multi-object-tracking-activity-7223597278840639489-x9MK?utm_source=share&utm_medium=member_desktop)| Computer vision|
 |14       |Mixed Non-linear Quantization for Vision Transformers |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_mixed-non-linear-quantization-for-vision-activity-7223806054873149440-GoV2?utm_source=share&utm_medium=member_desktop)|Computer vision|
-
+|15       |Sun Off, Lights On: Photorealistic Monocular Nighttime Simulation for Robust Semantic Perception|[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_photorealistic-monocular-nighttime-simulation-activity-7224294450338967552-IiCv?utm_source=share&utm_medium=member_desktop)|Computer vision|
 More Research Paper list is coming soon...!!!
