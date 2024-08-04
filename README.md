@@ -24,5 +24,6 @@ This list is regularly updated. Contributions via pull requests are welcome. All
 |16       |Adding Multi-modal Controls to Whole-body Human Motion Generation |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_whole-body-human-motion-generation-activity-7224649254126936064-Vhb5?utm_source=share&utm_medium=member_desktop)| Computer vision |
 |17        | Gemma 2: Improving Open Language Models at a Practical Size        |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_gemma-team-google-deepmind-activity-7225029744591781888-gx4J?utm_source=share&utm_medium=member_desktop)| LLM |
 |18        |Morphology-Driven Learning with Diffusion Transformer               |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_morphology-driven-learning-with-diffusion-activity-7225374432037421056-SVjX?utm_source=share&utm_medium=member_desktop)| Computer Vision|
+|19         |Self-Supervised Learning Based Handwriting Verification |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_handwriting-verification-activity-7225734609639030785-PNr2?utm_source=share&utm_medium=member_desktop)| Machine Learning|
 
 More Research Paper list is coming soon...!!!
