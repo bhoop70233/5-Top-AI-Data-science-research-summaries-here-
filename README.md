@@ -25,5 +25,6 @@ This list is regularly updated. Contributions via pull requests are welcome. All
 |17        | Gemma 2: Improving Open Language Models at a Practical Size        |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_gemma-team-google-deepmind-activity-7225029744591781888-gx4J?utm_source=share&utm_medium=member_desktop)| LLM |
 |18        |Morphology-Driven Learning with Diffusion Transformer               |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_morphology-driven-learning-with-diffusion-activity-7225374432037421056-SVjX?utm_source=share&utm_medium=member_desktop)| Computer Vision|
 |19         |Self-Supervised Learning Based Handwriting Verification |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_handwriting-verification-activity-7225734609639030785-PNr2?utm_source=share&utm_medium=member_desktop)| Machine Learning|
+|20         |Discrete Randomized Smoothing Meets Quantum Computing    |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_quantum-machine-learning-activity-7226074737427243008-T6ip?utm_source=share&utm_medium=member_desktop)| Quantum Machine Learning |
 
 More Research Paper list is coming soon...!!!
