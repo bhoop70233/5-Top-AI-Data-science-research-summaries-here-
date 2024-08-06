@@ -26,5 +26,7 @@ This list is regularly updated. Contributions via pull requests are welcome. All
 |18        |Morphology-Driven Learning with Diffusion Transformer               |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_morphology-driven-learning-with-diffusion-activity-7225374432037421056-SVjX?utm_source=share&utm_medium=member_desktop)| Computer Vision|
 |19         |Self-Supervised Learning Based Handwriting Verification |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_handwriting-verification-activity-7225734609639030785-PNr2?utm_source=share&utm_medium=member_desktop)| Machine Learning|
 |20         |Discrete Randomized Smoothing Meets Quantum Computing    |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_quantum-machine-learning-activity-7226074737427243008-T6ip?utm_source=share&utm_medium=member_desktop)| Quantum Machine Learning |
+|21         |Counterfactual Explanations for Medical Image Classification and Regression using Diffusion Autoencoder |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_machinelearning-ai-medicalimaging-activity-7226473339467227136-eF4W?utm_source=share&utm_medium=member_desktop)| Computer Vision|
+
 
 More Research Paper list is coming soon...!!!
