@@ -27,6 +27,7 @@ This list is regularly updated. Contributions via pull requests are welcome. All
 |19         |Self-Supervised Learning Based Handwriting Verification |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_handwriting-verification-activity-7225734609639030785-PNr2?utm_source=share&utm_medium=member_desktop)| Machine Learning|
 |20         |Discrete Randomized Smoothing Meets Quantum Computing    |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_quantum-machine-learning-activity-7226074737427243008-T6ip?utm_source=share&utm_medium=member_desktop)| Quantum Machine Learning |
 |21         |Counterfactual Explanations for Medical Image Classification and Regression using Diffusion Autoencoder |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_machinelearning-ai-medicalimaging-activity-7226473339467227136-eF4W?utm_source=share&utm_medium=member_desktop)| Computer Vision|
+|22         | Attention is all you need for an improved CNN-based flash flood susceptibility modeling. The case of the ungauged Rheraya watershed, Morocco |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_machinelearning-deeplearning-cnn-activity-7226921670240780289-evng?utm_source=share&utm_medium=member_desktop)| Computer vision |
 
 
 More Research Paper list is coming soon...!!!
