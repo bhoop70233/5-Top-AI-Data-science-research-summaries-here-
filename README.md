@@ -29,6 +29,8 @@ This list is regularly updated. Contributions via pull requests are welcome. All
 |21         |Counterfactual Explanations for Medical Image Classification and Regression using Diffusion Autoencoder |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_machinelearning-ai-medicalimaging-activity-7226473339467227136-eF4W?utm_source=share&utm_medium=member_desktop)| Computer Vision|
 |22         | Attention is all you need for an improved CNN-based flash flood susceptibility modeling. The case of the ungauged Rheraya watershed, Morocco |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_machinelearning-deeplearning-cnn-activity-7226921670240780289-evng?utm_source=share&utm_medium=member_desktop)| Computer vision |
 |23         |FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_ai-machinelearning-imageediting-activity-7227230051182764034-18C2?utm_source=share&utm_medium=member_desktop)   | Computer Vision |
+|24         |Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models  |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_ai-machinelearning-multimodalai-activity-7227953465015033857-q59A?utm_source=share&utm_medium=member_desktop)   |Computer vision            |
+
 
 
 More Research Paper list is coming soon...!!!
