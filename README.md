@@ -30,6 +30,7 @@ This list is regularly updated. Contributions via pull requests are welcome. All
 |22         | Attention is all you need for an improved CNN-based flash flood susceptibility modeling. The case of the ungauged Rheraya watershed, Morocco |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_machinelearning-deeplearning-cnn-activity-7226921670240780289-evng?utm_source=share&utm_medium=member_desktop)| Computer vision |
 |23         |FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_ai-machinelearning-imageediting-activity-7227230051182764034-18C2?utm_source=share&utm_medium=member_desktop)   | Computer Vision |
 |24         |Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models  |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_ai-machinelearning-multimodalai-activity-7227953465015033857-q59A?utm_source=share&utm_medium=member_desktop)   |Computer vision            |
+|25         |NeuroPapyri: A Deep Attention Embedding Network for Handwritten Papyri Retrieval  |[✍️](https://www.linkedin.com/posts/bhoop-singh-3b41b41a9_ai-deeplearning-computervision-activity-7230162119558672384-iIk6?utm_source=share&utm_medium=member_desktop)| computer vision  |
 
 
 
